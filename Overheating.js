@@ -29,7 +29,7 @@ function draw(){
 	if (xpos > 150){
 	speed = speed * -1}
 
-	fill('white');
+	fill('black');
 	circle(xpos,400,15);
 }
 	
