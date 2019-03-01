@@ -1,0 +1,4 @@
+Secrets/
+*.password
+node_modules
+.idea
